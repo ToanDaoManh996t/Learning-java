@@ -12,6 +12,6 @@ public class MethodSampleTest {
         System.out.println("Sum = " + sum);
 
         int sum2 = obj.sum(20, 30, 40);
-        System.out.println("SUm = " + sum2);
+        System.out.println("Sum = " + sum2);
     }
 }

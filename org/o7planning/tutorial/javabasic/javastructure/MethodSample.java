@@ -1,7 +1,7 @@
 package org.o7planning.tutorial.javabasic.javastructure;
 
 public class MethodSample {
-    public String text = "Some text";
+    private String text = "Some text";
     public MethodSample() {
 
     }
